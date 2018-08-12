@@ -1,1 +1,1 @@
-# convnet
+This is a simple convnet made with pytorch.Since the inputs are random no we cannot expect it to find any pattern due to which losses are very unexpected.Bt here the main focus is on how to make a convnet rather than accuracy .
